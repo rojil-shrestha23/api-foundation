@@ -19,10 +19,6 @@ class Product{
      {  
          $this->conn= $db;     
      }
-
-
-
-
 }
 
 
